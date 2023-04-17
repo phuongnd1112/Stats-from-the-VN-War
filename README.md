@@ -13,5 +13,5 @@ This notebook examines mainly country-specific involvement in bombing-related ac
 
 Several interesting historical observations are made examining this visualisation! please see notebook for further thoughts around the activities relating to Rolling Thunder (1968) and Vietnamisation (1969) onwards. 
 
-
+(bombs dropped)(https://github.com/phuongnd1112/Stats-from-the-VN-War/blob/main/Weapons_Delivered.png) 
 
